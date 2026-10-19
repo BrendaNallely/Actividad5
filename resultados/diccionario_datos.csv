@@ -1,0 +1,22 @@
+variable,tipo,descripcion
+age,Numérica,Edad en años
+job,Categórica,Ocupación
+marital,Categórica,Estado civil; divorced incluye viudez
+education,Categórica,Nivel educativo
+default,Categórica,Crédito en impago
+housing,Categórica,Préstamo hipotecario
+loan,Categórica,Préstamo personal
+contact,Categórica,Canal del contacto
+month,Categórica,Mes del contacto
+day_of_week,Categórica,Día del contacto
+duration,Numérica excluida,Duración de llamada en segundos
+campaign,Numérica,Contactos actuales; incluye el contacto actual
+pdays,Numérica,Días desde campaña previa; 999 indica sin contacto
+previous,Numérica,Contactos anteriores a la campaña actual
+poutcome,Categórica,Resultado de campaña previa
+emp.var.rate,Numérica,Variación trimestral de empleo
+cons.price.idx,Numérica,Índice mensual de precios
+cons.conf.idx,Numérica,Confianza mensual del consumidor
+euribor3m,Numérica,"Euríbor a tres meses, diario"
+nr.employed,Numérica,Indicador trimestral de número de empleados
+y,Objetivo,"Contrató: yes=1, no=0"

@@ -1,0 +1,3 @@
+modelo,mejores_parametros,cv_accuracy,cv_precision,cv_recall,cv_f1,cv_roc_auc,cv_f1_std
+Random_Forest,"{'modelo__class_weight': 'balanced', 'modelo__max_depth': None, 'modelo__min_samples_leaf': 2, 'modelo__n_estimators': 100}",0.9236115326251897,0.350785420385925,0.23142857142857146,0.2787131656134985,0.6603889017519488,0.011002056284173325
+Regresion_logistica,"{'modelo__C': 10.0, 'modelo__class_weight': 'balanced'}",0.7339908952959029,0.11871395009986822,0.49428571428571433,0.1914223143657166,0.6728961565177123,0.009468400486113542

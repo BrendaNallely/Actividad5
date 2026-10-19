@@ -1,0 +1,7 @@
+,resultado
+Diferencia F1 (RF − logística),-0.24674018448438984
+IC 95%: límite inferior,-0.26654544953366754
+IC 95%: límite superior,-0.22571932324285793
+Solo logística acierta,1719.0
+Solo Random Forest acierta,3545.0
+McNemar: p-valor,1.636418224971306e-142
